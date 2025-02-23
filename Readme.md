@@ -1,6 +1,6 @@
 # Shape Morpher - README
 
-![Aperçu de Shape Morpher](Morphing Particles.png)
+https://github.com/Nin-Shinobi/Morphing-Particles/blob/main/Readme.md
 
 ## Introduction
 Shape Morpher est une application interactive basée sur Three.js qui permet de transformer un nuage de particules en différentes formes 3D. Les utilisateurs peuvent sélectionner une forme, ajuster la taille des particules, la vitesse de rotation et d'autres paramètres visuels.
