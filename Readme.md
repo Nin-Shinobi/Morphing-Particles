@@ -53,4 +53,6 @@ Ce projet utilise la bibliothèque [Three.js](https://threejs.org/) pour le rend
 
 ## Licence
 Ce projet est open-source et peut être modifié librement selon vos besoins.
+Auteur : [hwilson.tech](https://hwilson.tech)
+
 
