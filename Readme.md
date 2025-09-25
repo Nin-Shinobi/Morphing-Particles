@@ -52,8 +52,8 @@ Si vous souhaitez modifier le code :
 ## Crédits
 Ce projet utilise la bibliothèque [Three.js](https://threejs.org/) pour le rendu 3D et les effets visuels.
 
-## Licence
-Ce projet est open-source et peut être modifié librement selon vos besoins.
-Auteur : [hwilson.tech](https://hwilson.tech)
+- **Auteur** : [𝕹𝖎𝖓_𝕾𝖍𝖎𝖓𝖔𝖇𝖎🥷🏾]
+- **GitHub** : [@Nin-Shinobi](https://github.com/Nin-Shinobi)
+- **Repository** : [Morphing Particles](https://github.com/Nin-Shinobi/Morphing-Particles)
 
 
